@@ -30,14 +30,13 @@
 
  let finalPrice = salePrice*maxPhones;
 
- finalPrice = 3778.425
+ 
 
  console.log(finalPrice);
 
  let maxPhonesPrice = originalPrice*maxPhones;
 
- maxPhonesPrice = 3598.5;
-
+ 
  console.log(maxPhonesPrice);
  
 
