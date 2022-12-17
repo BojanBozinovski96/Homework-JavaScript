@@ -2,7 +2,9 @@
 
 let username = "Bojan";
 function forString(username){
-    }
+    
+}
+    
 forString(username);
 console.log(typeof username);
 
@@ -33,9 +35,7 @@ console.log(typeof parameter);
 // For object
 
 let object = null;
-
 function forObject(object){
-
 }
 forObject(object);
 console.log(typeof object);
